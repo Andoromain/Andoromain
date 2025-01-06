@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I am passionate about coding and love to work on exciting projects. Below you can find more information about me, my skills, and some of my favorite projects.
 
 ## 🚀 About Me
+I'm a full stack developer...
 
 - 🌱 I’m currently learning [insert technology or language you are currently learning]
 - 👯 I’m looking to collaborate on [insert projects or areas of interest]
