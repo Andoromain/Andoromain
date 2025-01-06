@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am passionate about coding and love to work on e
 
 Here are some of the technologies and tools I work with:
 
-- Programming Languages: [e.g., Python, JavaScript, Java, C++]
+- Programming Languages: [e.g., Python, JavaScript, Java, PHP, C++]
 - Web Development: [e.g., HTML, CSS, React, Node.js]
 - Databases: [e.g., MySQL, MongoDB, PostgreSQL]
 - Tools & Platforms: [e.g., Git, Docker, AWS]
@@ -36,8 +36,7 @@ Here are a few of my favorite projects:
 
 ## 📫 Connect with Me
 
-- [LinkedIn](insert your LinkedIn profile link)
-- [Twitter](insert your Twitter profile link)
-- [Personal Website](insert your personal website link, if applicable)
+- [LinkedIn](https://www.linkedin.com/in/ando-romain-razafinandrasana-ba113b248/)
+- [Personal Website](https://ando-razafinandrasana.netlify.app/)
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you’d like to collaborate on a project or just chat about tech!
