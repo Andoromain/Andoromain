@@ -39,5 +39,6 @@ Here are a few of my favorite projects:
 
 - [LinkedIn](https://www.linkedin.com/in/ando-romain-razafinandrasana-ba113b248/)
 - [Personal Website](https://ando-razafinandrasana.netlify.app/)
+- [Facebook](https://www.facebook.com/ando.ajpr/)
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you’d like to collaborate on a project or just chat about tech!
