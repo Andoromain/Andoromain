@@ -35,6 +35,9 @@ Here are a few of my favorite projects:
 3. [Project Name](link to project)
    - Brief description of the project and its purpose.
 
+## Top Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andoromain&theme=radical&count_private=true&show_icons=true)
+
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ando-romain-razafinandrasana-ba113b248/)
