@@ -22,7 +22,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-![Andoromain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andoromain&show_icons=true&theme=radical)
+![Andoromain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andoromain&show_icons=true&theme=radical&count_private=true)
 
 ## 🏆 Top Projects
 
