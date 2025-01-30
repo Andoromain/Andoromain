@@ -24,6 +24,12 @@ Here are some of the technologies and tools I work with:
 
 ![Andoromain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andoromain&show_icons=true&theme=radical&count_private=true)
 
+## 🏆 Github Profile Trophy
+ <div>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=mayur091193&column=7"/>
+</div>
+
 ## 🏆 Top Projects
 
 Here are a few of my favorite projects:
