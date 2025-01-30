@@ -26,8 +26,7 @@ Here are some of the technologies and tools I work with:
 
 ## 🏆 Github Profile Trophy
  <div>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=mayur091193&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Andoromain&column=7"/>
 </div>
 
 ## 🏆 Top Projects
