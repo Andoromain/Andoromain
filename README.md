@@ -2,15 +2,6 @@
 
 Welcome to my GitHub profile! I am passionate about coding and love to work on exciting projects. Below you can find more information about me, my skills, and some of my favorite projects.
 
-## 🚀 About Me
-I'm a full stack developer...
-
-- 🌱 I’m currently learning [insert technology or language you are currently learning]
-- 👯 I’m looking to collaborate on [insert projects or areas of interest]
-- 💬 Ask me about [insert topics you are knowledgeable about]
-- 📫 How to reach me: [insert contact information, e.g. email or LinkedIn profile]
-- ⚡ Fun fact: [insert a fun fact about yourself]
-
 ## 🛠️ Skills
 
 Here are some of the technologies and tools I work with:
@@ -28,17 +19,6 @@ Here are some of the technologies and tools I work with:
  <div>
   <img src="https://github-profile-trophy.vercel.app/?username=Andoromain&column=7"/>
 </div>
-
-## 🏆 Top Projects
-
-Here are a few of my favorite projects:
-
-1. [Project Name](link to project)
-   - Brief description of the project and its purpose.
-2. [Project Name](link to project)
-   - Brief description of the project and its purpose.
-3. [Project Name](link to project)
-   - Brief description of the project and its purpose.
 
 ## Top Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andoromain&theme=radical&count_private=true&show_icons=true)
