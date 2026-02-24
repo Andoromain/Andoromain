@@ -13,15 +13,13 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-![Andoromain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andoromain&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://streak-stats.demolab.com/?user=Andoromain&theme=radical)
 
 ## 🏆 Github Profile Trophy
- <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=Andoromain&column=7"/>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Andoromain&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Top Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andoromain&theme=radical&count_private=true&show_icons=true)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Andoromain&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
