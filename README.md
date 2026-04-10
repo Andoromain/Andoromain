@@ -1,24 +1,28 @@
 # Hi there, I'm Andoromain! 👋
 
-Welcome to my GitHub profile! I am passionate about coding and love to work on exciting projects. Below you can find more information about me, my skills, and some of my favorite projects.
+Welcome to my GitHub profile! I'm a passionate full-stack developer based in Madagascar, working at **AJP** — a France-based software development company. I love building robust, scalable applications and exploring new technologies.
 
 ## 🛠️ Skills
 
-Here are some of the technologies and tools I work with:
+Here are the technologies and tools I work with on a daily basis:
 
-- Programming Languages: [e.g., Python, JavaScript, Java, PHP, C++]
-- Web Development: [e.g., HTML, CSS, React, Node.js]
-- Databases: [e.g., MySQL, MongoDB, PostgreSQL]
-- Tools & Platforms: [e.g., Git, Docker, AWS]
+- **Languages:** PHP, JavaScript, TypeScript, Python
+- **Backend:** Laravel, Node.js, BullMQ, REST APIs
+- **Frontend:** Vue.js, React, Vuetify, PrimeReact, Mantine UI
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- **DevOps & Infrastructure:** Docker, Nginx, Kubernetes, Supervisor, Prometheus, Grafana
+- **Tools & Platforms:** Git, GitHub, Linux (Kali, Ubuntu), SSH, Ollama (local AI)
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://streak-stats.demolab.com/?user=Andoromain&theme=radical)
 
-## 🏆 Github Profile Trophy
+## 🏆 GitHub Profile Trophy
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Andoromain&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Top Language
+## 🗣️ Top Languages
+
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Andoromain&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
@@ -27,4 +31,4 @@ Here are some of the technologies and tools I work with:
 - [Personal Website](https://ando-razafinandrasana.netlify.app/)
 - [Facebook](https://www.facebook.com/ando.ajpr/)
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you’d like to collaborate on a project or just chat about tech!
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on a project or just talk tech! 🚀
