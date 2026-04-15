@@ -19,7 +19,7 @@ Here are the technologies and tools I work with on a daily basis:
 
 ## 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Andoromain&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[[![trophy](https://github-profile-trophy.vercel.app/?username=Andoromain&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)](https://trophy.benkou.dev/?username=Andoromain&theme=dark)
 
 ## 🗣️ Top Languages
 
