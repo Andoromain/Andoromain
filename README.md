@@ -53,15 +53,6 @@ I build business applications end to end: from the database and the API to the i
 
 ## Featured projects
 
-<p align="center">
-  <a href="https://github.com/Andoromain/claude-mods"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Andoromain&repo=claude-mods&theme=tokyonight&hide_border=true&border_radius=10" alt="claude-mods" /></a>
-  <a href="https://github.com/Andoromain/SCRIPT-UTILS"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Andoromain&repo=SCRIPT-UTILS&theme=tokyonight&hide_border=true&border_radius=10" alt="SCRIPT-UTILS" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Andoromain/Portfolio"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Andoromain&repo=Portfolio&theme=tokyonight&hide_border=true&border_radius=10" alt="Portfolio" /></a>
-  <a href="https://github.com/Andoromain/Liste-Pokemons"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Andoromain&repo=Liste-Pokemons&theme=tokyonight&hide_border=true&border_radius=10" alt="Liste-Pokemons" /></a>
-</p>
-
 | Project | What it does |
 |---|---|
 | [claude-mods](https://github.com/Andoromain/claude-mods) | Plugins for Claude Code: wait alerts on desktop and phone, a git status panel for sibling repos, daily activity reports by e-mail |
