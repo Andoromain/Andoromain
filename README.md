@@ -1,34 +1,90 @@
-# Hi there, I'm Andoromain! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Ando%20Romain&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Laravel%20%C2%B7%20Vue%20%C2%B7%20React&descAlignY=58&descSize=18" alt="Ando Romain — Full-Stack Developer" />
+</p>
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer based in Madagascar, working at **AJP** — a France-based software development company. I love building robust, scalable applications and exploring new technologies.
+<p align="center">
+  <a href="https://github.com/Andoromain">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=2563EB&center=true&vCenter=true&width=600&lines=Building+robust+Laravel+applications;Crafting+clean+Vue+%26+React+interfaces;Automating+infrastructure+with+Ansible+%26+Nginx;Extending+AI+developer+tools" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🛠️ Skills
+<p align="center">
+  <a href="https://ando-razafinandrasana.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ando-romain-razafinandrasana-ba113b248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Antananarivo,%20Madagascar-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Antananarivo, Madagascar" />
+</p>
 
-Here are the technologies and tools I work with on a daily basis:
+---
 
-- **Languages:** PHP, JavaScript, TypeScript, Python
-- **Backend:** Laravel, Node.js, BullMQ, REST APIs
-- **Frontend:** Vue.js, React, Vuetify, PrimeReact, Mantine UI
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
-- **DevOps & Infrastructure:** Docker, Nginx, Kubernetes, Supervisor, Prometheus, Grafana
-- **Tools & Platforms:** Git, GitHub, Linux (Kali, Ubuntu), SSH, Ollama (local AI)
+## About me
 
-## 📈 GitHub Stats
+I'm a full-stack developer based in **Antananarivo, Madagascar**, working at **AJP**, a France-based software company.
+I build business applications end to end: from the database and the API to the interface and the server they run on.
 
-![GitHub Stats](https://streak-stats.demolab.com/?user=Andoromain&theme=radical)
+- 🧱 **Backend**: Laravel applications, REST APIs, queues and background workers (Horizon, BullMQ)
+- 🎨 **Frontend**: Vue.js and React interfaces with Vuetify, PrimeReact and Mantine UI
+- ⚙️ **Infrastructure**: Nginx, Supervisor, Docker, Ansible, monitoring with Prometheus & Grafana
+- 🤖 **AI tooling**: local models with Ollama and extensions for AI coding assistants
 
-## 🏆 GitHub Profile Trophy
+## Tech stack
 
-![trophy](https://trophy.benkou.dev/?username=Andoromain&theme=dark)
+<table>
+  <tr>
+    <td align="center" width="140"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,django,fastapi&perline=8" alt="PHP, Laravel, Node.js, Python, Django, FastAPI" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,vue,react,vuetify,tailwind,vite&perline=8" alt="JavaScript, TypeScript, Vue, React, Vuetify, Tailwind, Vite" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8" alt="MySQL, PostgreSQL, MongoDB, Redis" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nginx,docker,kubernetes,ansible,prometheus,grafana,githubactions&perline=8" alt="Nginx, Docker, Kubernetes, Ansible, Prometheus, Grafana, GitHub Actions" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github&perline=8" alt="Linux, Ubuntu, Bash, Git, GitHub" /></td>
+  </tr>
+</table>
 
-## 🗣️ Top Languages
+## Featured projects
 
-![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Andoromain&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://github.com/Andoromain/claude-mods"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Andoromain&repo=claude-mods&theme=tokyonight&hide_border=true&border_radius=10" alt="claude-mods" /></a>
+  <a href="https://github.com/Andoromain/SCRIPT-UTILS"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Andoromain&repo=SCRIPT-UTILS&theme=tokyonight&hide_border=true&border_radius=10" alt="SCRIPT-UTILS" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Andoromain/Portfolio"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Andoromain&repo=Portfolio&theme=tokyonight&hide_border=true&border_radius=10" alt="Portfolio" /></a>
+  <a href="https://github.com/Andoromain/Liste-Pokemons"><img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Andoromain&repo=Liste-Pokemons&theme=tokyonight&hide_border=true&border_radius=10" alt="Liste-Pokemons" /></a>
+</p>
 
-## 📫 Connect with Me
+| Project | What it does |
+|---|---|
+| [claude-mods](https://github.com/Andoromain/claude-mods) | Plugins for Claude Code: wait alerts on desktop and phone, a git status panel for sibling repos, daily activity reports by e-mail |
+| [SCRIPT-UTILS](https://github.com/Andoromain/SCRIPT-UTILS) | Shell scripts to manage Nginx/Apache virtual hosts and speed up project setup |
+| [Portfolio](https://github.com/Andoromain/Portfolio) | My personal website — [live](https://ando-razafinandrasana.netlify.app/) |
+| [Liste-Pokemons](https://github.com/Andoromain/Liste-Pokemons) | React + Redux app — [live](https://pokemons-ando.netlify.app/) |
 
-- [LinkedIn](https://www.linkedin.com/in/ando-romain-razafinandrasana-ba113b248/)
-- [Personal Website](https://ando-razafinandrasana.netlify.app/)
-- [Facebook](https://www.facebook.com/ando.ajpr/)
+## GitHub activity
 
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on a project or just talk tech! 🚀
+<p align="center">
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=Andoromain&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Andoromain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Andoromain&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  Open to collaborations on Laravel, Vue/React and DevOps projects — let's <a href="https://www.linkedin.com/in/ando-romain-razafinandrasana-ba113b248/">connect on LinkedIn</a>.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="" />
+</p>
