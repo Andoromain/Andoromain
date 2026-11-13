@@ -18,7 +18,7 @@
 
 ## About me
 
-I'm a full-stack developer based in **Antananarivo, Madagascar**, working at **AJP**, a France-based software company.
+I'm a full-stack developer based in **Antananarivo, Madagascar**.
 I build business applications end to end: from the database and the API to the interface and the server they run on.
 
 - 🧱 **Backend**: Laravel applications, REST APIs, queues and background workers (Horizon, BullMQ)
