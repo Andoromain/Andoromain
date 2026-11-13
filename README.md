@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Ando%20Romain&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Laravel%20%C2%B7%20Vue%20%C2%B7%20React&descAlignY=58&descSize=18" alt="Ando Romain — Full-Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1d4ed8&height=170&section=header&text=Ando%20Romain&fontColor=ffffff&fontSize=48&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20Laravel%20%C2%B7%20Vue%20%C2%B7%20React&descAlignY=66&descSize=18&descColor=cbd5e1" alt="Ando Romain — Full-Stack Developer" />
 </p>
 
 <p align="center">
