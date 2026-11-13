@@ -63,7 +63,7 @@ Je conçois des applications métier de bout en bout : de la base de données et
 ## Activité GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=Andoromain&show_icons=true&include_all_commits=true&count_private=true&locale=fr&theme=tokyonight&hide_border=true&border_radius=10" alt="Statistiques GitHub" />
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=Andoromain&custom_title=Statistiques%20GitHub&show_icons=true&include_all_commits=true&count_private=true&locale=fr&theme=tokyonight&hide_border=true&border_radius=10" alt="Statistiques GitHub" />
   <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Andoromain&layout=compact&langs_count=8&locale=fr&theme=tokyonight&hide_border=true&border_radius=10" alt="Langages les plus utilisés" />
 </p>
 <p align="center">
@@ -77,5 +77,5 @@ Je conçois des applications métier de bout en bout : de la base de données et
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,100:0f172a&height=6&section=footer" alt="" />
 </p>
